@@ -11,6 +11,6 @@ TODO:
 
 Upload PhysioNet data processing notebook
 
-Upload EMG RNN and PhysioNet RNN splinecam notebooks
+Upload EMG RNN and PhysioNet RNN splinecam notebooks - counterfactuals and sinusoids
 
 Upload SplineCam jupyter requirements/dependencies/environment
