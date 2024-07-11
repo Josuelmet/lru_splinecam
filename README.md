@@ -2,6 +2,8 @@
 
 data notebooks:
 
+PhsyioNet source: https://physionet.org/content/challenge-2017/1.0.0/training/#files-panel (under Files)
+
 compiling signal_list_saved.csv for PhysioNet: https://colab.research.google.com/drive/1Q5e8roUoFsPUPN-LIzc0hAdVADRp4cnu
 
 training files:
