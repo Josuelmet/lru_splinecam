@@ -13,8 +13,6 @@ PhysioNet RNN: https://colab.research.google.com/drive/1BiRnWlMFF3DJgsEKg2S5jR6N
 
 TODO:
 
-Upload PhysioNet data processing notebook
-
 Upload EMG RNN and PhysioNet RNN splinecam notebooks - counterfactuals and sinusoids
 
 Upload SplineCam jupyter requirements/dependencies/environment
